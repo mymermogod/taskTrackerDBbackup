@@ -1,0 +1,5 @@
+admin
+admin
+
+login postgres
+pass  admin
